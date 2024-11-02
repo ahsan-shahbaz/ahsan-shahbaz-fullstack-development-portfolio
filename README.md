@@ -12,7 +12,6 @@ My experience spans various roles in frontend and fullstack development, contrib
 
 - **Frontend Engineering**: Developed user-friendly layouts with React, HTML, CSS, and JavaScript. Focused on creating responsive designs, aligning with W3C standards, and conducting thorough testing to ensure cross-browser compatibility.
 - **UI/UX Design**: Specialized in designing seamless user experiences for both web and mobile applications. Employed modern design techniques to enhance usability and accessibility, optimizing the user journey across platforms.
-- **State Management**: Built robust state management solutions using React’s Context API and `useReducer`, ensuring efficient data handling and responsive UI updates in dynamic applications.
 - **API Development and Integration**: Designed RESTful APIs for seamless backend integration, connecting applications with external systems such as CRM platforms and payment gateways. 
 - **DevOps and Deployment**: Leveraged Docker, Kubernetes, and Linux-based environments to deploy and manage applications. Ensured reliable, scalable environments through automated deployment pipelines and containerized solutions.
 - **Project Management**: Oversaw project timelines, client communication, sprint planning, and task allocation. Led development teams, facilitating Agile practices and Scrum meetings to optimize collaboration and productivity.
