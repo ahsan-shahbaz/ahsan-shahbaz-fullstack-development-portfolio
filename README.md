@@ -25,7 +25,6 @@ My experience spans various roles in frontend and fullstack development, contrib
 **Project 1: Shopping Cart Application**  
 A React-based shopping cart application that demonstrates advanced state management using Context API and `useReducer`. Styled with Tailwind CSS, it provides dynamic item addition/removal and real-time total calculation.  
 - [GitHub Repository](https://github.com/ahsan-shahbaz/reactjs-experience)
-- [Live Demo](https://ahsan-shahbaz.github.io/reactjs-experience/)
 
 ## Skills and Technologies
 
@@ -41,14 +40,6 @@ A React-based shopping cart application that demonstrates advanced state managem
 - **Urdu**: Native or Bilingual Proficiency
 - **Japanese**: Limited Working Proficiency
 - **English**: Native or Bilingual Proficiency
-
-## Certifications
-
-- **Agile Requirements Foundations**
-- **Learning Salesforce.com Development**
-- **React.js Essential Training**
-- **HTML/CSS and Bootstrap**
-- **Learning the JavaScript Language**
 
 ## Contact
 
