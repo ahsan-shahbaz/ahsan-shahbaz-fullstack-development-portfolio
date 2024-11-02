@@ -24,7 +24,7 @@ My experience spans various roles in frontend and fullstack development, contrib
 ### React.js Experience
 **Project 1: Shopping Cart Application**  
 A React-based shopping cart application that demonstrates advanced state management using Context API and `useReducer`. Styled with Tailwind CSS, it provides dynamic item addition/removal and real-time total calculation.  
-- [GitHub Repository](https://github.com/ahsan-shahbaz/reactjs-experience)
+- [GitHub Repository](https://github.com/ahsan-shahbaz/reactjs-experience/blob/main/react-state-management-example/doc/index.md)
 
 ## Skills and Technologies
 
