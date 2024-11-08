@@ -25,13 +25,17 @@ My experience spans various roles in frontend and fullstack development, contrib
 A React-based shopping cart application that demonstrates advanced state management using Context API and `useReducer`. Styled with Tailwind CSS, it provides dynamic item addition/removal and real-time total calculation.  
 - [GitHub Repository](https://github.com/ahsan-shahbaz/reactjs-experience/blob/main/react-state-management-example/doc/index.md)
 
+**Project 2: e-shop Application**  
+A React-based e-shop application that demonstrates Routers, State management, Components, pages, data, types, stores and redux. Styled with Tailwind CSS.  
+- [GitHub Repository](https://github.com/ahsan-shahbaz/reactjs-experience/blob/main/react-routing-ecommerce-example)
+
 ## Skills and Technologies
 
 - **Frontend Development**: HTML, CSS, JavaScript, jQuery, React, AngularJS
 - **Backend Development**: PHP, .NET, Node.js, MySQL, MSSQL
-- **Frameworks**: Laravel, CakePHP, CodeIgniter, SugarCRM, WordPress
-- **DevOps and Containerization**: Docker, Kubernetes, CentOS, Red Hat Linux
-- **Other Skills**: UI/UX design, responsive layouts, W3C standards compliance, REST/SOAP API development
+- **Frameworks**: Laravel, CakePHP, CodeIgniter, Symfony, SalesForce, SugarCRM, SuiteCRM, HubSpot CRM, Shopify Developement, WordPress
+- **DevOps and Containerization**: Docker, Kubernetes, CentOS, Red Hat Linux, Azure CICD, BitBucket CI/CD, Argo CI/CD, Grafana, Helm Charts, prometheus, Loki. 
+- **Other Skills**: UI/UX design, Figma UI mocks, Slack communication, Jira task management, responsive layouts, W3C and WCAG 2.0 standards compliance, REST/SOAP API development, TPL layouts, Hubl HubSpot, Smarty templates, Liquid Shopify templates, MixPanel tracking, AppCues Flow management.
 
 ## Languages
 
