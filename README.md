@@ -47,7 +47,7 @@ A React-based e-shop application that demonstrates Routers, State management, Co
 ## Contact
 
 - **PK**: +923202113006 (Mobile, WhatsApp)  
-- **UK**: +447999565007 (Mobile, WhatsApp)  
+- **UK**: +447999565007 (WhatsApp)  
 - **Email**: [ahsanshahbaz@ymail.com](mailto:ahsanshahbaz@ymail.com)  
 - **Email**: [ahsan.shahbaz21@gmail.com](mailto:ahsan.shahbaz21@gmail.com)  
 - **LinkedIn**: [www.linkedin.com/in/ahsanshahbaz](https://www.linkedin.com/in/ahsanshahbaz)
